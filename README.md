@@ -1,9 +1,3 @@
-Absolutely — here’s a smoother, more **human and conversational** rewrite of your **Simple NASA API README**.
-
-It keeps all the technical accuracy, but now it *reads* like you wrote it — natural, confident, and easy for recruiters or devs to follow.
-
----
-
 # 🚀 Simple NASA API
 
 > “Bringing the cosmos a click closer.”
@@ -110,7 +104,3 @@ I love building projects that make learning and exploration more engaging — wh
 ---
 
 > “The sky isn’t the limit — it’s just the API endpoint.” 🌠
-
----
-
-Would you like me to make a **short, 3-line “pinned repo summary”** version for your GitHub profile grid (so it matches your Quranify and NASA projects stylistically)? It’ll make your project lineup look consistent and professional.
